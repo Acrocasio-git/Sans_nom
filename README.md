@@ -3,4 +3,4 @@
 
 Petite image :
 
-[img]https://www.planet-casio.com/storage/forums/2023-06-21%20(4)-192694.png[/img]
+[img]https://www.planet-casio.com/storage/forums/2023-06-21%20(4)-192694.png[img]
