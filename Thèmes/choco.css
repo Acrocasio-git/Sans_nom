@@ -1,0 +1,49 @@
+/* Thème Choco */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e6d8c4;
+    margin: 0;
+    padding: 0;
+    transition: background-color 0.3s;
+    color: #3d2c1f;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f2e8d9;
+    border: 1px solid #c8b59e;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #634b38;
+  }
+  
+  a {
+    color: #8c3d0d;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #8c3d0d;
+    color: #ffffff;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #6c2f0a;
+  }
+  
